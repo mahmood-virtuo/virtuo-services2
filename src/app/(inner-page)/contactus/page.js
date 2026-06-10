@@ -56,7 +56,7 @@ export default function Home() {
                                     <div className="info">
                                         <span>MAke A Quote</span>
                                         <Link href={'mailto:someone@example.com'}>
-                                            <h5>info@finbiz.com</h5>
+                                            <h5>info@Virtuo Services.com</h5>
                                         </Link>
                                     </div>
                                 </div>

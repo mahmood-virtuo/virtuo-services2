@@ -29,16 +29,16 @@ function SideMenu({ isSidebarOpen, toggleSidebar }) {
                 {/* inner menu area desktop start */}
                 <div className="rts-sidebar-menu-desktop">
                     <a className="logo-1" href="/">
-                        <img className="logo" src="/assets/images/logo/logo-1.svg" alt="finbiz_logo" />
+                        <img className="logo" src="/assets/images/logo/logo-1.svg" alt="Virtuo Services_logo" />
                     </a>
                     <a className="logo-2" href="/">
-                        <img className="logo" src="/assets/images/logo/logo-4.svg" alt="finbiz_logo" />
+                        <img className="logo" src="/assets/images/logo/logo-4.svg" alt="Virtuo Services_logo" />
                     </a>
                     <a className="logo-3" href="/">
-                        <img className="logo" src="/assets/images/logo/logo-3.svg" alt="finbiz_logo" />
+                        <img className="logo" src="/assets/images/logo/logo-3.svg" alt="Virtuo Services_logo" />
                     </a>
                     <a className="logo-4" href="/">
-                        <img className="logo" src="/assets/images/logo/logo-5.svg" alt="finbiz_logo" />
+                        <img className="logo" src="/assets/images/logo/logo-5.svg" alt="Virtuo Services_logo" />
                     </a>
 
                     <div className="body d-none d-xl-block">

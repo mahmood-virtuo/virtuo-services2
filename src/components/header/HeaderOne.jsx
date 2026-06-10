@@ -54,7 +54,7 @@ function HeaderOne() {
                                 <div className="left">
                                     <div className="mail">
                                         <Link href={'/about-us'}>
-                                            <i className="fal fa-envelope" /> info@finbiz.com
+                                            <i className="fal fa-envelope" /> info@Virtuo Services.com
                                         </Link>
                                     </div>
                                     <div className="working-time">
@@ -110,7 +110,7 @@ function HeaderOne() {
                             <div className="col-xl-3 col-lg-4 col-md-4 col-sm-4 col-4">
                                 <div className="thumbnail">
                                     <Link href={'/'} >
-                                        <img src="/assets/images/logo/logo-1.svg" alt="finbiz-logo" />
+                                        <img src="/assets/images/logo/logo-1.svg" alt="Virtuo Services-logo" />
                                     </Link>
                                 </div>
                             </div>

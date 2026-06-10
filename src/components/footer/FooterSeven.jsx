@@ -32,7 +32,7 @@ function FooterSeven() {
                                     <h5 className="wized-title">Our Services</h5>
                                     <img
                                         src="assets/images/footer/under-title-2.png"
-                                        alt="finbiz_footer"
+                                        alt="Virtuo Services_footer"
                                     />
                                 </div>
                                 <div className="wized-2-body">
@@ -78,7 +78,7 @@ function FooterSeven() {
                                     <h5 className="wized-title">Contact Us</h5>
                                     <img
                                         src="assets/images/footer/under-title-2.png"
-                                        alt="finbiz_footer"
+                                        alt="Virtuo Services_footer"
                                     />
                                 </div>
                                 <div className="wized-2-body">
@@ -97,7 +97,7 @@ function FooterSeven() {
                                         </div>
                                         <div className="disc">
                                             <span>Work with us</span>
-                                            <Link href={'#'}>info@finbiz.com</Link>
+                                            <Link href={'#'}>info@Virtuo Services.com</Link>
                                         </div>
                                     </div>
                                 </div>

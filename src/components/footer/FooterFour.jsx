@@ -74,7 +74,7 @@ function FooterFour() {
                                                     </ul>
                                                     <div className="info">
                                                         <span>Work with us</span>
-                                                        <a href="#">info@finbiz.com</a>
+                                                        <a href="#">info@Virtuo Services.com</a>
                                                     </div>
                                                 </div>
                                                 <div className="single">

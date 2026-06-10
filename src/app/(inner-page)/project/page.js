@@ -100,7 +100,7 @@ export default function Home(props) {
                                                     <div className="thumbnail-area">
                                                         <img
                                                             src="assets/images/product/06.jpg"
-                                                            alt="Business_Finbiz"
+                                                            alt="Business_Virtuo Services"
                                                         />
                                                         <Link
                                                             className="rts-btn btn-primary rounded"
@@ -128,7 +128,7 @@ export default function Home(props) {
                                                     <div className="thumbnail-area">
                                                         <img
                                                             src="assets/images/product/05.jpg"
-                                                            alt="Business_Finbiz"
+                                                            alt="Business_Virtuo Services"
                                                         />
                                                         <Link
                                                             className="rts-btn btn-primary rounded"
@@ -156,7 +156,7 @@ export default function Home(props) {
                                                     <div className="thumbnail-area">
                                                         <img
                                                             src="assets/images/product/04.jpg"
-                                                            alt="Business_Finbiz"
+                                                            alt="Business_Virtuo Services"
                                                         />
                                                         <Link
                                                             className="rts-btn btn-primary rounded"
@@ -184,7 +184,7 @@ export default function Home(props) {
                                                     <div className="thumbnail-area">
                                                         <img
                                                             src="assets/images/product/03.jpg"
-                                                            alt="Business_Finbiz"
+                                                            alt="Business_Virtuo Services"
                                                         />
                                                         <Link
                                                             className="rts-btn btn-primary rounded"
@@ -212,7 +212,7 @@ export default function Home(props) {
                                                     <div className="thumbnail-area">
                                                         <img
                                                             src="assets/images/product/02.jpg"
-                                                            alt="Business_Finbiz"
+                                                            alt="Business_Virtuo Services"
                                                         />
                                                         <Link
                                                             className="rts-btn btn-primary rounded"
@@ -240,7 +240,7 @@ export default function Home(props) {
                                                     <div className="thumbnail-area">
                                                         <img
                                                             src="assets/images/product/01.jpg"
-                                                            alt="Business_Finbiz"
+                                                            alt="Business_Virtuo Services"
                                                         />
                                                         <Link
                                                             className="rts-btn btn-primary rounded"
@@ -276,7 +276,7 @@ export default function Home(props) {
                                                     <div className="thumbnail-area">
                                                         <img
                                                             src="assets/images/product/06.jpg"
-                                                            alt="Business_Finbiz"
+                                                            alt="Business_Virtuo Services"
                                                         />
                                                         <Link
                                                             className="rts-btn btn-primary rounded"
@@ -304,7 +304,7 @@ export default function Home(props) {
                                                     <div className="thumbnail-area">
                                                         <img
                                                             src="assets/images/product/05.jpg"
-                                                            alt="Business_Finbiz"
+                                                            alt="Business_Virtuo Services"
                                                         />
                                                         <Link
                                                             className="rts-btn btn-primary rounded"
@@ -332,7 +332,7 @@ export default function Home(props) {
                                                     <div className="thumbnail-area">
                                                         <img
                                                             src="assets/images/product/04.jpg"
-                                                            alt="Business_Finbiz"
+                                                            alt="Business_Virtuo Services"
                                                         />
                                                         <Link
                                                             className="rts-btn btn-primary rounded"
@@ -360,7 +360,7 @@ export default function Home(props) {
                                                     <div className="thumbnail-area">
                                                         <img
                                                             src="assets/images/product/03.jpg"
-                                                            alt="Business_Finbiz"
+                                                            alt="Business_Virtuo Services"
                                                         />
                                                         <Link
                                                             className="rts-btn btn-primary rounded"
@@ -388,7 +388,7 @@ export default function Home(props) {
                                                     <div className="thumbnail-area">
                                                         <img
                                                             src="assets/images/product/02.jpg"
-                                                            alt="Business_Finbiz"
+                                                            alt="Business_Virtuo Services"
                                                         />
                                                         <Link
                                                             className="rts-btn btn-primary rounded"
@@ -416,7 +416,7 @@ export default function Home(props) {
                                                     <div className="thumbnail-area">
                                                         <img
                                                             src="assets/images/product/01.jpg"
-                                                            alt="Business_Finbiz"
+                                                            alt="Business_Virtuo Services"
                                                         />
                                                         <Link
                                                             className="rts-btn btn-primary rounded"

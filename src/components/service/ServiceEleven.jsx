@@ -26,7 +26,7 @@ function ServiceEleven() {
                                 <div className="thumbnail">
                                     <img
                                         src="assets/images/service/icon/01.svg"
-                                        alt="finbiz_service"
+                                        alt="Virtuo Services_service"
                                     />
                                 </div>
                                 <div className="service-details">
@@ -54,7 +54,7 @@ function ServiceEleven() {
                                 <div className="thumbnail">
                                     <img
                                         src="assets/images/service/icon/02.svg"
-                                        alt="finbiz_service"
+                                        alt="Virtuo Services_service"
                                     />
                                 </div>
                                 <div className="service-details">
@@ -82,7 +82,7 @@ function ServiceEleven() {
                                 <div className="thumbnail">
                                     <img
                                         src="assets/images/service/icon/03.svg"
-                                        alt="finbiz_service"
+                                        alt="Virtuo Services_service"
                                     />
                                 </div>
                                 <div className="service-details">
@@ -110,7 +110,7 @@ function ServiceEleven() {
                                 <div className="thumbnail">
                                     <img
                                         src="assets/images/service/icon/04.svg"
-                                        alt="finbiz_service"
+                                        alt="Virtuo Services_service"
                                     />
                                 </div>
                                 <div className="service-details">
@@ -138,7 +138,7 @@ function ServiceEleven() {
                                 <div className="thumbnail">
                                     <img
                                         src="assets/images/service/icon/05.svg"
-                                        alt="finbiz_service"
+                                        alt="Virtuo Services_service"
                                     />
                                 </div>
                                 <div className="service-details">
@@ -166,7 +166,7 @@ function ServiceEleven() {
                                 <div className="thumbnail">
                                     <img
                                         src="assets/images/service/icon/06.svg"
-                                        alt="finbiz_service"
+                                        alt="Virtuo Services_service"
                                     />
                                 </div>
                                 <div className="service-details">

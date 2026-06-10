@@ -74,7 +74,7 @@ function FooterThree() {
                                                     </ul>
                                                     <div className="info">
                                                         <span>Work with us</span>
-                                                        <Link href={'#'}>info@finbiz.com</Link>
+                                                        <Link href={'#'}>info@Virtuo Services.com</Link>
                                                     </div>
                                                 </div>
                                                 <div className="single">

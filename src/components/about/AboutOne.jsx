@@ -67,7 +67,7 @@ function AboutOne() {
                                             <a className="thumbnail" href="#">
                                                 <img
                                                     src="assets/images/about/sm-01.png"
-                                                    alt="finbiz_founder"
+                                                    alt="Virtuo Services_founder"
                                                 />
                                             </a>
                                             <div className="founder-details">
@@ -106,12 +106,12 @@ function AboutOne() {
                             <div className="about-one-thumbnail">
                                 <img
                                     src=" assets/images/about/main/about-01.png"
-                                    alt="about-finbiz"
+                                    alt="about-Virtuo Services"
                                 />
                                 <img
                                     className="small-img"
                                     src="assets/images/about/main/about-02.png"
-                                    alt="finbiz-small"
+                                    alt="Virtuo Services-small"
                                 />
                                 <div className="experience">
                                     <div className="left single">
